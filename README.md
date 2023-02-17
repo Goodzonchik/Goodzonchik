@@ -1,6 +1,6 @@
 ## Добро пожаловать в мой Github профиль!
 
-Я Сергей, frontend-разработчик с 6-летним опытом разработки, как fullstack, так и frontend.
+Я Сергей, frontend-разработчик с 8-летним опытом разработки, как fullstack, так и frontend.
 
 ### Языки и инструменты
 
@@ -31,6 +31,7 @@
 - PrimeNg/PrimeVue
 - NG-Bootstrap
 - Angular Material
+- Taiga-UI
 
 ##### HTTP-Запросы
 
@@ -54,10 +55,12 @@
 
 - Travis-CI
 - Github Actions
+- Gitlab CI
 
 ##### Ведение проектов
 
 - Trello
+- Jira
 
 ### Контакты
 
