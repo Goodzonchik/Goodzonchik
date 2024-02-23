@@ -15,52 +15,8 @@
 
 ##### Логика и манипуляции DOM
 
-- Angular/AngularJs
-- React
-- Vue
-- jQuery
-
-##### Утилиты
-
-- Luxon/MomentJs
-- Lodash
-- Underscore
-
-##### Компонентные библиотеки
-
-- PrimeNg/PrimeVue
-- NG-Bootstrap
-- Angular Material
-- Taiga-UI
-
-##### HTTP-Запросы
-
-- GraphQL и Appolo Client
-- Axios
-
-##### Состояние и SSR
-
-- Vuex
-- NextJs
-
-##### Верстка
-
-- HTML5
-- Bootstrap
-- Prime-Flex
-- Angular Material
-- SASS/LESS
-
-##### CI/DI
-
-- Travis-CI
-- Github Actions
-- Gitlab CI
-
-##### Ведение проектов
-
-- Trello
-- Jira
+Основной стек Angular
+Но был опыт с AngularJs, React, Vue, jQuery
 
 ### Контакты
 
