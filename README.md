@@ -23,4 +23,4 @@
 - Профиль на [Stackoverflow-ru](https://ru.stackoverflow.com/users/203140/sergey-glazirin)
 - [Резюме на hh.ru](https://ekaterinburg.hh.ru/applicant/resumes/view?resume=f4e218d4ff04058d390039ed1f6e4d386f4b53)
 - [Почта](mailto:sergey-glazirin@mail.ru)
-- [Мой телеграмм-канал](https://t.me/how_i_write_code)
+- [Мой телеграмм-канал](https://t.me/pet_project_sematary)
