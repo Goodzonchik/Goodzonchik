@@ -8,7 +8,7 @@
 timeline
     section Датакрат
         2015-2016 : тестировщик
-             : ввел автоматизированое тестирование с помощью Selenium+C#
+                  : ввел автоматизированое тестирование с помощью Selenium+C#
         2016-2018 : fullstack-разработчик
                   : За неделю разработал MVP продукта продажи билетов по местам
     section Экстрим-Про
@@ -62,6 +62,6 @@ kanban
 
 | Сайт | Ссылка |
 | ------ | ----------- |
-| Stackoverflow.ru   | [Ссылка](https://ru.stackoverflow.com/users/203140/sergey-glazirin) |
-| Telegram | [Ссылка на канал](https://t.me/pet_project_sematary) |
+| Stackoverflow.ru   | [Профиль](https://ru.stackoverflow.com/users/203140/sergey-glazirin) |
+| Telegram | [Канал](https://t.me/pet_project_sematary) |
 | hh.ru    | [Резюме](https://ekaterinburg.hh.ru/applicant/resumes/view?resume=f4e218d4ff04058d390039ed1f6e4d386f4b53) |
