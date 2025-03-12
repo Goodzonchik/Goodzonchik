@@ -34,12 +34,10 @@ timeline
 
 ```mermaid
 xychart-beta
-    title "Накопленная репутация по полугодиям"
-    x-axis ["2017-H2", "2018-H1", "2018-H2", "2019-H1", "2019-H2", 
-            "2020-H1", "2020-H2", "2021-H1", "2021-H2", 
-            "2022-H1", "2022-H2", "2023-H1", "2023-H2", "2024-H1"]
+    title "Накопленная репутация по годам"
+    x-axis ["2017", "2018", "2019", "2020", "2021", "2022", "2023"]
     y-axis "Баллы" 0 --> 5800
-    line [1220, 3120, 3420, 3445, 3455, 3475, 3495, 3515, 3535, 3580, 3615, 3625, 5733]
+    line [1220, 3420, 3455, 3495, 3535, 3615, 5733]
 ```
 ## статьи
 
@@ -58,8 +56,10 @@ kanban
 ```
 
 
-### Контакты
+## Контакты
 
-- Профиль на [Stackoverflow-ru](https://ru.stackoverflow.com/users/203140/sergey-glazirin)
-- [Резюме на hh.ru](https://ekaterinburg.hh.ru/applicant/resumes/view?resume=f4e218d4ff04058d390039ed1f6e4d386f4b53)
-- [Мой телеграмм-канал](https://t.me/pet_project_sematary)
+| Сайт | Ссылка |
+| ------ | ----------- |
+| Stackoverflow.ru   | [Ссылка](https://ru.stackoverflow.com/users/203140/sergey-glazirin) |
+| Telegram | [Ссылка на канал](https://t.me/pet_project_sematary) |
+| hh.ru    | [Резюме](https://ekaterinburg.hh.ru/applicant/resumes/view?resume=f4e218d4ff04058d390039ed1f6e4d386f4b53) |
