@@ -51,11 +51,18 @@ mindmap
 ## статьи
 
 ```mermaid
+---
+config:
+  kanban:
+    ticketBaseUrl: 'https://habr.com/ru/companies/tbank/articles/#URL#'
+
+---
 kanban
   2023
     card1["Web components как альтернатива iframe"]@{
       ticket: 👁 5.8к
       assigned: ♡ 17 🖬 29
+      url: 828940
     }
   2024
     card2["Что я понял, когда написал много тестов"]@{
