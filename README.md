@@ -54,20 +54,19 @@ mindmap
 ---
 config:
   kanban:
-    ticketBaseUrl: 'https://habr.com/ru/companies/tbank/articles/#URL#'
+    ticketBaseUrl: 'https://habr.com/ru/companies/tbank/articles/#TICKET#'
 
 ---
 kanban
   2023
     card1["Web components как альтернатива iframe"]@{
-      ticket: 👁 5.8к
-      assigned: ♡ 17 🖬 29
-      url: 828940
+      ticket: 828940
+      assigned: 👁5.8к ❤️17 📖29
     }
   2024
     card2["Что я понял, когда написал много тестов"]@{
-      ticket: 👁 17к
-      assigned: ♡ 16 🖬 29
+      ticket: 753958
+      assigned: 👁17к ❤️16 📖29
     }
 ```
 
