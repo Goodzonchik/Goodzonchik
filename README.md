@@ -66,7 +66,7 @@ kanban
   2024
     card2["Web components как альтернатива iframe"]@{
       ticket: 828940
-      assigned: 👁5.8к ❤️17
+      assigned: 👁6к ❤️17
     }
 ```
 
