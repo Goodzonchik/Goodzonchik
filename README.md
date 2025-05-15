@@ -77,4 +77,3 @@ kanban
 | ------ | ----------- |
 | Stackoverflow.ru   | [Профиль](https://ru.stackoverflow.com/users/203140/sergey-glazirin) |
 | Telegram | [Канал](https://t.me/pet_project_sematary) |
-| hh.ru    | [Резюме](https://ekaterinburg.hh.ru/applicant/resumes/view?resume=f4e218d4ff04058d390039ed1f6e4d386f4b53) |
