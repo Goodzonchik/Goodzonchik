@@ -73,7 +73,7 @@ kanban
     }
    card4["URLPattern — pattern matching, который мы ждали"]@{
       ticket: 955984
-      assigned: 👁2.4к ❤️13
+      assigned: 👁3к ❤️13
     }
 ```
 
