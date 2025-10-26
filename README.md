@@ -64,16 +64,16 @@ kanban
   2024
     card2["Web components как альтернатива iframe"]@{
       ticket: 828940
-      assigned: 👁6.7к ❤️17
+      assigned: 👁6.8к ❤️17
     }
   2025
     card3["Не доверяй и проверяй, или как я валидировал ссылку в JavaScript"]@{
       ticket: 944084
-      assigned: 👁3к ❤️12
+      assigned: 👁3.1к ❤️12
     }
    card4["URLPattern — pattern matching, который мы ждали"]@{
       ticket: 955984
-      assigned: 👁3.7к ❤️14
+      assigned: 👁4к ❤️14
     }
 ```
 
