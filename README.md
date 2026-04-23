@@ -61,21 +61,21 @@ kanban
   2023
     card1["Что я понял, когда написал много тестов"]@{
       ticket: 753958
-      assigned: 👁18к ❤️16
+      assigned: 👁18к ❤️17
     }
   2024
     card2["Web components как альтернатива iframe"]@{
       ticket: 828940
-      assigned: 👁4.9к ❤️17
+      assigned: 👁13к ❤️17
     }
   2025
     card3["Не доверяй и проверяй, или как я валидировал ссылку в JavaScript"]@{
       ticket: 944084
-      assigned: 👁6.4к ❤️12
+      assigned: 👁11к ❤️12
     }
    card4["URLPattern — pattern matching, который мы ждали"]@{
       ticket: 955984
-      assigned: 👁7.2к ❤️14
+      assigned: 👁7.8к ❤️14
     }
 ```
 
